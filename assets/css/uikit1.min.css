@@ -29,7 +29,7 @@ a {
 .uk-link-toggle:hover .uk-link,
 .uk-link:hover,
 a:hover {
-    color: #fff;
+    color: #1357bd;
     text-decoration: underline
 }
 
@@ -11173,4 +11173,5 @@ iframe.uk-cover {
     h3 {
         page-break-after: avoid
     }
+
 }
