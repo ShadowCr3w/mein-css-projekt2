@@ -4378,8 +4378,8 @@ nav.active-nav {
 }
 .counter-content-container {
   background: linear-gradient(
-      rgba(119, 68, 217, 0.74),
-      rgba(119, 68, 217, 0.74)
+      rgb(68 78 217 / 74%),
+      rgb(68 78 217 / 74%)
     ),
     #ffffff url(assets/images/counter/counter-bg.jpg) center center/cover
       no-repeat scroll;
