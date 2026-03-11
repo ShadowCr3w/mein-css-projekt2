@@ -20,7 +20,7 @@ a:hover {
 
 .uk-link,
 a {
-    color: #fff;
+    color: #1357bd;
     text-decoration: none;
     cursor: pointer
 }
@@ -11173,4 +11173,5 @@ iframe.uk-cover {
     h3 {
         page-break-after: avoid
     }
+
 }
