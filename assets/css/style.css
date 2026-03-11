@@ -4378,8 +4378,8 @@ nav.active-nav {
 }
 .counter-content-container {
   background: linear-gradient(
-      rgb(68 78 217 / 74%),
-      rgb(68 78 217 / 74%)
+      rgb(68 78 217 / 0.74),
+      rgb(68 78 217 / 0.74)
     ),
     #ffffff url(assets/images/counter/counter-bg.jpg) center center/cover
       no-repeat scroll;
@@ -9201,3 +9201,4 @@ div#particles .carousel-slider-one {
 .blog-appoinment.appoinment-wrapper .form-group textarea::placeholder {
   color: #222 !important;
 }
+
